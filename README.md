@@ -13,6 +13,15 @@ A minimal PyTorch pipeline for segmenting blood cell images. You can change the 
 
 ---
 
+# Metrics on Testing Data Show (trained for 4 epochs)
+```bash
+Loss: 0.1219
+IOU: 0.8357
+Precision: 0.9439
+Recall: 0.8800
+F1: 0.9108
+```
+
 ## Prediction Example
 
 An example of the model output on images:
